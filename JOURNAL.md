@@ -8,11 +8,13 @@ It is amazing and i started with the schematic too, i have plans that i will ord
 
 # august 20 2025
 
-i am in school today and will start with the schematic
+i am in school today and will start with the schematic  
 
 
-did most of the schematic work today itself, and now i will do final changes and then start with PCB..
+did most of the schematic work today itself, and now i will do final changes and then start with PCB..  
 
-it is gonna be great
-oh wait, here is an image: 
+it is gonna be great  
+oh wait, here is an image:  
 ![main sch](/images/aug20/main.png)
+
+oh wait, i just forgot that i would have to make the 1.8v voltage regulator :pf:

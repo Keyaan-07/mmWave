@@ -14,3 +14,5 @@ i am in school today and will start with the schematic
 did most of the schematic work today itself, and now i will do final changes and then start with PCB..
 
 it is gonna be great
+oh wait, here is an image: 
+![main sch](/images/aug20/main.png)

@@ -30,3 +30,5 @@ i have two options for making the PCB,
 - I can do dual sided board(not ideal for costs as setup fee is 18 USD alone)
 
 but a dual sided board is almost necessary as the components are BGA, and i would need decoupling caps all around it. 
+
+so now basically i have to get 2 sided board made by myself, because i will only get JLCPCBA for 1 side, so i have kept all the back sided components(almost all are 0603) to handsolder pad size(that will be okay for me as i have handsoldered 0402😎). but i will still need to take care. 

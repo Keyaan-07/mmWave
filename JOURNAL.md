@@ -22,3 +22,11 @@ oh wait, i just forgot that i would have to make the 1.8v voltage regulator :pf:
 # August 22 2025
 
 Gonna do a lot of work today, i will try to finish the 1.8v circuit, and start with the layout, i will route RF at the last because it is the hardest
+
+umm i did some work today, it was idk what, mostly assigning stuff and trying to see what option would fit the best for me for reducing costs.
+
+i have two options for making the PCB, 
+- Either i can go for a single sided baord(not ideal for BGA
+- I can do dual sided board(not ideal for costs as setup fee is 18 USD alone)
+
+but a dual sided board is almost necessary as the components are BGA, and i would need decoupling caps all around it. 

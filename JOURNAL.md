@@ -18,3 +18,7 @@ oh wait, here is an image:
 ![main sch](/images/aug20/main.png)
 
 oh wait, i just forgot that i would have to make the 1.8v voltage regulator :pf:
+
+# August 22 2025
+
+Gonna do a lot of work today, i will try to finish the 1.8v circuit, and start with the layout, i will route RF at the last because it is the hardest

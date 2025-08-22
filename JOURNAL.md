@@ -32,3 +32,14 @@ i have two options for making the PCB,
 but a dual sided board is almost necessary as the components are BGA, and i would need decoupling caps all around it. 
 
 so now basically i have to get 2 sided board made by myself, because i will only get JLCPCBA for 1 side, so i have kept all the back sided components(almost all are 0603) to handsolder pad size(that will be okay for me as i have handsoldered 0402😎). but i will still need to take care. 
+
+![sch](/images/aug22/sch.png)  
+only added this much of the circuit cuz i was finding the proper IC which is basic component in PCBA, and i was trying to understand it's circuit but i didn't understand it properly, will try tomorrow.  
+
+This much PCB work is done:
+![pcb](/images/aug22/pcb.png)  
+
+i will try to complete schematic and placement by tomorrow...
+
+
+### Time Spent today: about 1 hour

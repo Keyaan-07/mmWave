@@ -46,3 +46,5 @@ i will try to complete schematic and placement by tomorrow...
 
 # august 23 2025
 I am currently in school. gotta start working on the buck convertor, the 1.8v regulator
+
+nvm, i am just changing the buck convertor to the tps62850 instead of the tps5430, because it has very low ripple output and it is recommeneded.

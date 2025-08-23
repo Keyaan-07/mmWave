@@ -48,3 +48,5 @@ i will try to complete schematic and placement by tomorrow...
 I am currently in school. gotta start working on the buck convertor, the 1.8v regulator
 
 nvm, i am just changing the buck convertor to the tps62850 instead of the tps5430, because it has very low ripple output and it is recommeneded.
+
+i changed my oscillator to [this](https://www.lcsc.com/product-detail/C5261245.html), and it required 10 pF locad cap so i will use the 15pFx2 capacitors, i already have them at my home.

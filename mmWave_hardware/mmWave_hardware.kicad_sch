@@ -7134,7 +7134,7 @@
 			)
 		)
 	)
-	(hierarchical_label "QSPI_2"
+	(hierarchical_label "QSPI_1"
 		(shape input)
 		(at 256.54 138.43 0)
 		(effects

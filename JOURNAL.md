@@ -43,3 +43,6 @@ i will try to complete schematic and placement by tomorrow...
 
 
 ### Time Spent today: about 1 hour
+
+# august 23 2025
+I am currently in school. gotta start working on the buck convertor, the 1.8v regulator

@@ -50,3 +50,13 @@ I am currently in school. gotta start working on the buck convertor, the 1.8v re
 nvm, i am just changing the buck convertor to the tps62850 instead of the tps5430, because it has very low ripple output and it is recommeneded.
 
 i changed my oscillator to [this](https://www.lcsc.com/product-detail/C5261245.html), and it required 10 pF locad cap so i will use the 15pFx2 capacitors, i already have them at my home.
+
+### Time Spent today: about 25 mins
+
+# august 24 2025
+
+today, i am feeling very very happy as i figured out how i would mae the PCB for cheap as a 6 layer board and still have PCBA. i feel great thinking about it!
+
+might route today..
+
+### time spent today: 10 mins

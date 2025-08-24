@@ -59,4 +59,8 @@ today, i am feeling very very happy as i figured out how i would mae the PCB for
 
 might route today..
 
-### time spent today: 10 mins
+didn't do any significant work today, just completed the 1.8v buck reg, and i still feel happy. will update with the photos tomorrow cuz too tired
+
+### time spent today: 30 mins
+
+UPLOAD PHOTOS

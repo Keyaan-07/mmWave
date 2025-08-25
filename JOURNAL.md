@@ -59,8 +59,14 @@ today, i am feeling very very happy as i figured out how i would mae the PCB for
 
 might route today..
 
-didn't do any significant work today, just completed the 1.8v buck reg, and i still feel happy. will update with the photos tomorrow cuz too tired
+didn't do any significant work today, just completed the 1.8v buck reg, and i still feel happy. will update with the photos tomorrow cuz too tired.  
+Images:  
+Buck Convertor:  
+![buck convertor](/images/aug24/buck.png)  
+efficient way and make PCBs cheaper:  
+![BGA pads](/images/aug24/bga.png)  
 
 ### time spent today: 30 mins
 
-UPLOAD PHOTOS
+# august 25 2025
+i am in school today, uploaded the photos for yesterday, now i will find 2 inductors and assign footprints and finally start with final routing

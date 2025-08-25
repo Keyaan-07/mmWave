@@ -660,6 +660,119 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "Device:Antenna"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "AE"
+				(at -1.905 1.905 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right)
+				)
+			)
+			(property "Value" "Antenna"
+				(at -1.905 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify right)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Antenna"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "antenna"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Antenna_0_1"
+				(polyline
+					(pts
+						(xy 0 2.54) (xy 0 -3.81)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 2.54) (xy 0 -2.54) (xy -1.27 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "Antenna_1_1"
+				(pin input line
+					(at 0 -5.08 90)
+					(length 2.54)
+					(name "A"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Device:C"
 			(pin_numbers
 				(hide yes)
@@ -4562,6 +4675,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 154.94) (xy 144.78 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07c5eb64-e479-41d4-9d7b-9da962948eec")
+	)
+	(wire
+		(pts
 			(xy 138.43 82.55) (xy 144.78 82.55)
 		)
 		(stroke
@@ -4622,6 +4745,16 @@
 	)
 	(wire
 		(pts
+			(xy 73.66 153.67) (xy 73.66 154.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "124f69cd-d73f-4a25-9ad3-27b8e521af34")
+	)
+	(wire
+		(pts
 			(xy 173.99 204.47) (xy 176.53 204.47)
 		)
 		(stroke
@@ -4652,6 +4785,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 133.35) (xy 88.9 133.35)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1ca10966-2768-4181-8e60-5147541071cf")
+	)
+	(wire
+		(pts
 			(xy 256.54 156.21) (xy 260.35 156.21)
 		)
 		(stroke
@@ -4659,6 +4802,16 @@
 			(type default)
 		)
 		(uuid "218ed08c-0774-47e0-b8b8-dd3eb19763cc")
+	)
+	(wire
+		(pts
+			(xy 143.51 158.75) (xy 143.51 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "230f73f9-b65a-4ff4-8ea8-7ceb649b52fa")
 	)
 	(wire
 		(pts
@@ -4799,6 +4952,16 @@
 			(type default)
 		)
 		(uuid "30f7bf01-ab33-4246-a1fe-acf3c778cbb4")
+	)
+	(wire
+		(pts
+			(xy 76.2 135.89) (xy 76.2 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3200a543-4c36-4df4-9963-a2eb702929d6")
 	)
 	(wire
 		(pts
@@ -5062,6 +5225,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 158.75) (xy 143.51 158.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59476098-7fce-48aa-a4b8-53f6dc37b94d")
+	)
+	(wire
+		(pts
 			(xy 293.37 29.21) (xy 294.64 29.21)
 		)
 		(stroke
@@ -5139,6 +5312,16 @@
 			(type default)
 		)
 		(uuid "64537304-bd5b-4c79-b56e-2d57babfd69f")
+	)
+	(wire
+		(pts
+			(xy 86.36 153.67) (xy 144.78 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "649fe6fc-9102-4f02-adfa-86ffb92a0d1b")
 	)
 	(wire
 		(pts
@@ -5262,6 +5445,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 133.35) (xy 88.9 121.92)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "74301039-5358-4175-9c38-f8c5cdb68efb")
+	)
+	(wire
+		(pts
 			(xy 191.77 62.23) (xy 194.31 62.23)
 		)
 		(stroke
@@ -5382,6 +5575,16 @@
 	)
 	(wire
 		(pts
+			(xy 60.96 156.21) (xy 60.96 153.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "938d69dd-2b0a-4934-b0f6-d7b079e10b90")
+	)
+	(wire
+		(pts
 			(xy 204.47 62.23) (xy 207.01 62.23)
 		)
 		(stroke
@@ -5399,6 +5602,16 @@
 			(type default)
 		)
 		(uuid "95b503dc-e70c-4531-9e14-498cd061e0a5")
+	)
+	(wire
+		(pts
+			(xy 144.78 135.89) (xy 76.2 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9677b425-e129-4215-96be-86fb3a7b2510")
 	)
 	(wire
 		(pts
@@ -5702,6 +5915,16 @@
 	)
 	(wire
 		(pts
+			(xy 144.78 154.94) (xy 144.78 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce1ad29c-8324-417b-ac47-55ff8a7c05f6")
+	)
+	(wire
+		(pts
 			(xy 130.81 102.87) (xy 144.78 102.87)
 		)
 		(stroke
@@ -5942,6 +6165,16 @@
 	)
 	(wire
 		(pts
+			(xy 143.51 156.21) (xy 60.96 156.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5298087-d118-4c76-a247-b468de9cf57a")
+	)
+	(wire
+		(pts
 			(xy 189.23 204.47) (xy 191.77 204.47)
 		)
 		(stroke
@@ -6019,28 +6252,6 @@
 			(type default)
 		)
 		(uuid "fca367ef-acea-433d-bb3e-5bc173535860")
-	)
-	(global_label "TX2"
-		(shape input)
-		(at 144.78 135.89 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "047e15dc-edba-4c89-9725-2ff3254bbeef")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.4082 135.89 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
 	)
 	(global_label "GND"
 		(shape input)
@@ -6482,28 +6693,6 @@
 			)
 		)
 	)
-	(global_label "RX2"
-		(shape input)
-		(at 144.78 156.21 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "56fe18b0-cf25-452b-afe3-c4cee23cf2cf")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.1058 156.21 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "1v8"
 		(shape input)
 		(at 212.09 34.29 90)
@@ -6610,28 +6799,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TX1"
-		(shape input)
-		(at 144.78 133.35 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "63e55606-4254-4569-9c46-c9a1d023c855")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.4082 133.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -7230,28 +7397,6 @@
 			)
 		)
 	)
-	(global_label "RX3"
-		(shape input)
-		(at 144.78 158.75 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c2e4d9f8-d800-4999-8e9e-464d8915e10d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.1058 158.75 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "SPI0_CLK"
 		(shape input)
 		(at 280.67 120.65 0)
@@ -7358,28 +7503,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "RX1"
-		(shape input)
-		(at 144.78 153.67 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "d8575112-69a8-4257-9d9d-c18b98f976d2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 138.1058 153.67 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -7821,6 +7944,73 @@
 			(project "mmWave_hardware"
 				(path "/6162916a-a208-4f68-9876-78e56ce61083"
 					(reference "C17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Antenna")
+		(at 88.9 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "0ae04894-c840-4ea5-9aee-770b06535ae3")
+		(property "Reference" "AE2"
+			(at 91.44 116.2049 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Antenna"
+			(at 91.44 118.7449 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "antennas:60GHz_microstrip_inset_patch"
+			(at 88.9 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 88.9 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Antenna"
+			(at 88.9 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8e34c45d-ccbb-48fa-ac52-bff6b4351a83")
+		)
+		(instances
+			(project "mmWave_hardware"
+				(path "/6162916a-a208-4f68-9876-78e56ce61083"
+					(reference "AE2")
 					(unit 1)
 				)
 			)
@@ -8349,6 +8539,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:Antenna")
+		(at 86.36 148.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3de540c8-85ba-4b00-ad06-47a173950124")
+		(property "Reference" "AE5"
+			(at 88.9 147.9549 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Antenna"
+			(at 88.9 150.4949 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "antennas:60GHz_microstrip_inset_patch"
+			(at 86.36 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 86.36 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Antenna"
+			(at 86.36 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ed107c51-f887-4406-8a6d-e3f7d9cad4fe")
+		)
+		(instances
+			(project "mmWave_hardware"
+				(path "/6162916a-a208-4f68-9876-78e56ce61083"
+					(reference "AE5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 219.71 49.53 0)
 		(unit 1)
@@ -8482,6 +8739,73 @@
 			(project "mmWave_hardware"
 				(path "/6162916a-a208-4f68-9876-78e56ce61083"
 					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Antenna")
+		(at 76.2 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5ab774d3-8f31-4cba-9473-8c31fa8b6e8f")
+		(property "Reference" "AE1"
+			(at 78.74 116.2049 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Antenna"
+			(at 78.74 118.7449 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "antennas:60GHz_microstrip_inset_patch"
+			(at 76.2 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 76.2 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Antenna"
+			(at 76.2 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5e0cf129-d444-4891-b404-67024d58c427")
+		)
+		(instances
+			(project ""
+				(path "/6162916a-a208-4f68-9876-78e56ce61083"
+					(reference "AE1")
 					(unit 1)
 				)
 			)
@@ -9709,6 +10033,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:Antenna")
+		(at 73.66 148.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b1251276-96a9-453b-878a-d85618c5a76a")
+		(property "Reference" "AE4"
+			(at 76.2 147.9549 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Antenna"
+			(at 76.2 150.4949 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "antennas:60GHz_microstrip_inset_patch"
+			(at 73.66 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 73.66 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Antenna"
+			(at 73.66 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e0abfc4a-5ad0-40be-95a8-df85a61b6e84")
+		)
+		(instances
+			(project "mmWave_hardware"
+				(path "/6162916a-a208-4f68-9876-78e56ce61083"
+					(reference "AE4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 368.3 67.31 0)
 		(unit 1)
@@ -10833,6 +11224,73 @@
 			(project "mmWave_hardware"
 				(path "/6162916a-a208-4f68-9876-78e56ce61083"
 					(reference "TP3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:Antenna")
+		(at 60.96 148.59 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e2d87b35-7d21-4335-b97e-07cb1f316c46")
+		(property "Reference" "AE3"
+			(at 63.5 147.9549 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Antenna"
+			(at 63.5 150.4949 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "antennas:60GHz_microstrip_inset_patch"
+			(at 60.96 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 60.96 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Antenna"
+			(at 60.96 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c252534e-d973-47a0-b46e-940375064bb8")
+		)
+		(instances
+			(project "mmWave_hardware"
+				(path "/6162916a-a208-4f68-9876-78e56ce61083"
+					(reference "AE3")
 					(unit 1)
 				)
 			)

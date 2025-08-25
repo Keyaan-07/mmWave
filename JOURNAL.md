@@ -77,4 +77,8 @@ just completed with the layout, almost, probably, antennas remaining ofcourse
 
 ![layout](/images/aug25/layout.png)  
 
+did this, done that, now time for the harder part, RF.
+
+well i have no experience making microstrip patch antennas and their feedlines but why not try making them. i'll be starting now
+
 ### time spent today: 45 mins

@@ -81,4 +81,22 @@ did this, done that, now time for the harder part, RF.
 
 well i have no experience making microstrip patch antennas and their feedlines but why not try making them. i'll be starting now
 
-### time spent today: 45 mins
+i am done, i think my patch antenna is ready
+
+so basically, there are two popular types of feed lines in a patch, inset feedline and quarter-wave transformer feedline.  
+
+Inset Feedline:  
+![inset feedline](https://www.antenna-theory.com/antennas/patches/patch4.jpg)  
+Quarter-wave Transformer feedline:  
+![q-wave transformer](https://www.antenna-theory.com/antennas/patches/patch5.jpg)
+
+and um after mind-storming, i figured out that i would use inset feedline(it is simpler to make lol). and I made it too!  
+
+Here is something i made:  
+![my patch yayyy](/images/aug25/patch.png)
+
+it operates at 60GHz so the dimensions are pretty small. L=1.15mm and W=1.51mm
+
+i felt so happy when it turned out great
+
+### time spent today: 2 hours 30 mins

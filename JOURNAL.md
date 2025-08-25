@@ -73,4 +73,8 @@ i am in school today, uploaded the photos for yesterday, now i will find 2 induc
 
 started with the PCB layout, will update soon
 
-UPLOAD PHOTOS
+just completed with the layout, almost, probably, antennas remaining ofcourse  
+
+![layout](/images/aug25/layout.png)  
+
+### time spent today: 45 mins

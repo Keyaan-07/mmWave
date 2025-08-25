@@ -70,3 +70,7 @@ efficient way and make PCBs cheaper:
 
 # august 25 2025
 i am in school today, uploaded the photos for yesterday, now i will find 2 inductors and assign footprints and finally start with final routing
+
+started with the PCB layout, will update soon
+
+UPLOAD PHOTOS

@@ -107,8 +107,14 @@ I am in school, made the RX antenna part completely, the array consists of 3 ant
 
 ![RX array](/images/aug26/RX_ant.png)
 
-now, i have to make a custom ANT symbol. 
-did just make it in 5 mins
+now, i have to make a custom ANT symbol.  
+did just make it in 5 mins  
 
+
+finally, i think all the antennas are ready, with all the final touches done too, and i removed the wires coming out of the antennas, because they were causing problems. here is the current look:  
+### RX:  
+![current RX antenna](/images/aug26/current_RX.png)  
+### TX:  
+![current TX antenna](/images/aug26/current_TX.png)
 
 ### time spent today: 3 mins

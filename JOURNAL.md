@@ -100,3 +100,7 @@ it operates at 60GHz so the dimensions are pretty small. L=1.15mm and W=1.51mm
 i felt so happy when it turned out great
 
 ### time spent today: 2 hours 30 mins
+
+# August 26 2025
+
+I am in school, made the RX antenna part completely, the array consists of 3 antennas at lambda/2 length

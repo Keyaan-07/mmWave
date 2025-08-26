@@ -117,4 +117,4 @@ finally, i think all the antennas are ready, with all the final touches done too
 ### TX:  
 ![current TX antenna](/images/aug26/current_TX.png)
 
-### time spent today: 3 mins
+### time spent today: 30 mins

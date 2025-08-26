@@ -16,7 +16,7 @@
 		)
 	)
 	(property "Value" "main_ant"
-		(at 0.09 0.87 0)
+		(at 0.07 -0.57 0)
 		(unlocked yes)
 		(layer "F.Fab")
 		(uuid "7f3af963-f2f5-48da-be22-424d137595d4")
@@ -66,8 +66,15 @@
 			)
 		)
 	)
+	(pad "1" smd rect
+		(at -0.320507 -0.838634 60)
+		(size 1.51 0.738)
+		(layers "F.Cu" "F.Mask")
+		(thermal_bridge_angle 45)
+		(uuid "dad76e64-33c0-40e0-953d-795a12df51c2")
+	)
 	(pad "1" smd custom
-		(at -0.4956 -0.446384)
+		(at -0.068355 -0.125374 60)
 		(size 0.52675 0.412)
 		(layers "F.Cu" "F.Mask")
 		(thermal_bridge_angle 45)
@@ -78,15 +85,8 @@
 		(primitives)
 		(uuid "18519b39-d966-4dc1-8440-7da2de4a780f")
 	)
-	(pad "1" smd rect
-		(at -0.003975 -1.021384)
-		(size 1.51 0.738)
-		(layers "F.Cu" "F.Mask")
-		(thermal_bridge_angle 45)
-		(uuid "dad76e64-33c0-40e0-953d-795a12df51c2")
-	)
 	(pad "1" smd custom
-		(at -0.003975 -0.321384)
+		(at 0.28571 -0.488634 60)
 		(size 0.1565 0.8)
 		(layers "F.Cu" "F.Mask")
 		(thermal_bridge_angle 45)
@@ -98,7 +98,19 @@
 		(uuid "8f107d2e-448d-4972-903c-3b522062a51e")
 	)
 	(pad "1" smd custom
-		(at -0.003975 -0.071384 300)
+		(at 0.42327 -0.976894 60)
+		(size 0.52675 0.412)
+		(layers "F.Cu" "F.Mask")
+		(thermal_bridge_angle 45)
+		(options
+			(clearance outline)
+			(anchor rect)
+		)
+		(primitives)
+		(uuid "18f2413f-2178-4c5b-90c7-b150f74ebbde")
+	)
+	(pad "1" smd custom
+		(at 0.564037 -0.327942 60)
 		(size 0.15 0.15)
 		(layers "F.Cu" "F.Mask")
 		(thermal_bridge_angle 45)
@@ -109,17 +121,12 @@
 		(primitives)
 		(uuid "ccbe6c1e-d792-474f-8915-e002f77ce761")
 	)
-	(pad "1" smd custom
-		(at 0.48765 -0.446384)
-		(size 0.52675 0.412)
-		(layers "F.Cu" "F.Mask")
-		(thermal_bridge_angle 45)
-		(options
-			(clearance outline)
-			(anchor rect)
+	(group ""
+		(uuid "ca16670a-1456-470b-9f42-e3e830469867")
+		(members "18519b39-d966-4dc1-8440-7da2de4a780f" "18f2413f-2178-4c5b-90c7-b150f74ebbde"
+			"8f107d2e-448d-4972-903c-3b522062a51e" "ccbe6c1e-d792-474f-8915-e002f77ce761"
+			"dad76e64-33c0-40e0-953d-795a12df51c2"
 		)
-		(primitives)
-		(uuid "18f2413f-2178-4c5b-90c7-b150f74ebbde")
 	)
 	(embedded_fonts no)
 )

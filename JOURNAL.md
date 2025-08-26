@@ -108,3 +108,7 @@ I am in school, made the RX antenna part completely, the array consists of 3 ant
 ![RX array](/images/aug26/RX_ant.png)
 
 now, i have to make a custom ANT symbol. 
+did just make it in 5 mins
+
+
+### time spent today: 3 mins

@@ -1,4 +1,4 @@
-25643154765717354
+25643154768612605
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -102680,8 +102680,8 @@ TX_60GHz_microstrip_inset_patch
 
 
 0
-0
-0
+10
+2
 easyeda2kicad
 BGA-102_L6.5-W6.5-P0.50-TL_TI_IWRL6432BDQGAMFR
 

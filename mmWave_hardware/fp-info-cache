@@ -1,4 +1,4 @@
-25608111316495832
+25643154765717354
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -83566,6 +83566,13 @@ HVSSOP SO
 20
 11
 Package_SO
+INA226_MSOP-10
+
+
+0
+10
+10
+Package_SO
 Infineon_PG-DSO-8-24_4x5mm
 Infineon  PG-DSO, 8 Pin (https://www.infineon.com/dgdl/Infineon-BSP752R-DS-v01_02-EN.pdf?fileId=db3a304316f112290116f233cbd271e9#page=17), generated with kicad-footprint-generator ipc_gullwing_generator.py
 Infineon PG-DSO SO
@@ -85756,6 +85763,20 @@ DGK VSSOP SO
 0
 8
 8
+Package_SO
+Untitled
+
+
+0
+0
+0
+Package_SO
+Untitled_1
+
+
+0
+10
+10
 Package_SO
 VSO-40_7.6x15.4mm_P0.762mm
 VSO40: plastic very small outline package; 40 leads (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot158-1_po.pdf)
@@ -102654,6 +102675,13 @@ RX_60GHz_microstrip_inset_patch
 0
 15
 3
+antennas
+TX_60GHz_microstrip_inset_patch
+
+
+0
+0
+0
 easyeda2kicad
 BGA-102_L6.5-W6.5-P0.50-TL_TI_IWRL6432BDQGAMFR
 
@@ -102676,6 +102704,13 @@ IND-SMD_L2.0-W1.6_AOTA-B201610S3R3-101-T
 2
 2
 easyeda2kicad
+PG-TDSON-8-FL_L5.0-W6.0-P1.27-LS6.2-BL
+
+
+0
+10
+8
+easyeda2kicad
 QFN-16_L3.0-W3.0-P0.50-TL-EP1.65
 
 
@@ -102683,9 +102718,114 @@ QFN-16_L3.0-W3.0-P0.50-TL-EP1.65
 17
 17
 easyeda2kicad
+QFN-16_L3.0-W3.0-P0.50-TL-EP2.0
+
+
+0
+17
+17
+easyeda2kicad
+QFN-20_L3.0-W3.0-P0.50-BL-EP1.7_EFM8BB21F16G
+
+
+0
+21
+21
+easyeda2kicad
+QFN-24_L4.0-W4.0-P0.50-BL-EP2.6
+
+
+0
+25
+25
+easyeda2kicad
+SC-70-6_L2.2-W1.3-P0.65-LS2.1-BL
+
+
+0
+6
+6
+easyeda2kicad
 SOT-583-8_L2.1-W1.2-P0.50-LS1.6-BR
 
 
 0
 8
 8
+easyeda2kicad
+VSON8_L2.0-W2.3-P0.50-LS3.1-BL
+
+
+0
+8
+8
+user_imported_devices
+ADCS7476_SOT95P280X145-6N
+DBV (R-PDSO-G6)
+Integrated Circuit
+0
+6
+6
+user_imported_devices
+ADE-11X+_SOTFL254P691X284-6N
+ADE-11X+
+Integrated Circuit
+0
+6
+6
+user_imported_devices
+ESDS314BVR_SOT95P280X145-5N
+DBV0005A_a
+Diode
+0
+5
+5
+user_imported_devices
+GALI5
+DF782 (SOT-89 package)
+Integrated Circuit
+0
+4
+4
+user_imported_devices
+PSA45043
+PSA4-5043+-2
+Integrated Circuit
+0
+4
+4
+user_imported_devices
+RP2350A_QFN-60_EP_7.75x7.75_Pitch0.4mm
+
+
+0
+86
+61
+user_imported_devices
+RP2350B_QFN-80_EP_10.573x10.573_Pitch0.4mm
+
+
+0
+106
+81
+user_imported_devices
+SI5351_SOP50P490X110-10N
+10-MSOP Package
+Integrated Circuit
+0
+10
+10
+user_imported_devices
+USBPCB
+
+
+0
+4
+4
+user_imported_devices
+Untitled
+
+
+0
+4
+4

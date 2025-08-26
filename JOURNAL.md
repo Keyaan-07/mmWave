@@ -104,3 +104,7 @@ i felt so happy when it turned out great
 # August 26 2025
 
 I am in school, made the RX antenna part completely, the array consists of 3 antennas at lambda/2 length
+
+![RX array](/images/aug26/RX_ant.png)
+
+now, i have to make a custom ANT symbol. 

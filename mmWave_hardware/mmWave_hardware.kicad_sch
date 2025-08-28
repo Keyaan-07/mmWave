@@ -6709,9 +6709,9 @@
 			)
 		)
 	)
-	(global_label "TMS"
+	(global_label "GPIO_5"
 		(shape input)
-		(at 72.39 213.36 180)
+		(at 72.39 215.9 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6719,9 +6719,9 @@
 			)
 			(justify right)
 		)
-		(uuid "426ed8d3-6104-4764-9ad0-e88a7ff7b1ce")
+		(uuid "46ef291c-12c3-408e-ad17-955d55ee8b9d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 65.7763 213.36 0)
+			(at 62.7524 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6797,6 +6797,28 @@
 			)
 		)
 	)
+	(global_label "GPIO_2"
+		(shape input)
+		(at 72.39 210.82 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "564552ae-24bf-4574-aaf5-015f0674f56f")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 62.7524 210.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "1v8"
 		(shape input)
 		(at 212.09 34.29 90)
@@ -6832,28 +6854,6 @@
 		(uuid "595dfba3-5bf3-427f-b371-eadfb5b5c411")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 60.3334 220.98 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TDI"
-		(shape input)
-		(at 72.39 215.9 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "59f8e9ff-8bee-4918-8d3b-1b7a6d64032a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 66.5624 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6991,28 +6991,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TDO"
-		(shape input)
-		(at 72.39 218.44 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "716ce29d-4071-4657-8308-a13f6f5e6c42")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 65.8367 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -7453,28 +7431,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "TCK"
-		(shape input)
-		(at 72.39 210.82 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "b51ddce5-5266-4fb8-895d-4e02082b3fef")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 65.8972 210.82 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)

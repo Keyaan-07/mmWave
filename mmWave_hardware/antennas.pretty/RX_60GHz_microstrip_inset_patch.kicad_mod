@@ -245,13 +245,7 @@
 	(zone
 		(net 0)
 		(net_name "")
-		(layers "F.Cu" "F.Mask" "B.Cu" "B.Mask" "In1.Cu" "F.SilkS" "In2.Cu" "B.SilkS"
-			"In3.Cu" "F.Adhes" "In4.Cu" "B.Adhes" "In5.Cu" "F.Paste" "In6.Cu" "B.Paste"
-			"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
-			"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
-			"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
-			"In29.Cu" "In30.Cu"
-		)
+		(layers "F.Cu" "F.Mask" "F.SilkS" "F.Adhes" "F.Paste")
 		(uuid "a3236ee6-6edf-436f-88c4-f2673193adfd")
 		(hatch edge 0.5)
 		(connect_pads

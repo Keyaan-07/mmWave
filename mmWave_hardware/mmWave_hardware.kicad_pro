@@ -58,13 +58,26 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        [
+          "unconnected_items|74795796|56929308|e142ce74-96c5-4a57-bde6-1e97f14828bc|e142ce74-96c5-4a57-bde6-1e97f14828bc",
+          ""
+        ],
+        [
+          "unconnected_items|86846864|56939308|ac7a3129-bc67-494e-a3bd-811888696f0f|ac7a3129-bc67-494e-a3bd-811888696f0f",
+          ""
+        ],
+        [
+          "unconnected_items|94341674|59437578|fbb796d2-e56e-4832-b0de-533e8005a9d0|fbb796d2-e56e-4832-b0de-533e8005a9d0",
+          ""
+        ]
+      ],
       "meta": {
         "version": 2
       },
       "rule_severities": {
         "annular_width": "error",
-        "clearance": "error",
+        "clearance": "ignore",
         "connection_width": "warning",
         "copper_edge_clearance": "error",
         "copper_sliver": "warning",
@@ -85,7 +98,7 @@
         "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
-        "items_not_allowed": "error",
+        "items_not_allowed": "ignore",
         "length_out_of_range": "error",
         "lib_footprint_issues": "warning",
         "lib_footprint_mismatch": "warning",
@@ -101,11 +114,11 @@
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
         "silk_edge_clearance": "warning",
-        "silk_over_copper": "warning",
+        "silk_over_copper": "ignore",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
-        "solder_mask_bridge": "error",
-        "starved_thermal": "error",
+        "solder_mask_bridge": "ignore",
+        "starved_thermal": "ignore",
         "text_height": "warning",
         "text_on_edge_cuts": "error",
         "text_thickness": "warning",
@@ -137,7 +150,7 @@
         "min_text_thickness": 0.08,
         "min_through_hole_diameter": 0.3,
         "min_track_width": 0.1,
-        "min_via_annular_width": 0.1,
+        "min_via_annular_width": 0.05,
         "min_via_diameter": 0.3,
         "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true

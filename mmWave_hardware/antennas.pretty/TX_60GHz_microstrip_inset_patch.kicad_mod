@@ -201,13 +201,7 @@
 	(zone
 		(net 0)
 		(net_name "")
-		(layers "F.Cu" "F.Mask" "B.Cu" "B.Mask" "In1.Cu" "F.SilkS" "In2.Cu" "B.SilkS"
-			"In3.Cu" "F.Adhes" "In4.Cu" "B.Adhes" "In5.Cu" "F.Paste" "In6.Cu" "B.Paste"
-			"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
-			"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
-			"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
-			"In29.Cu" "In30.Cu"
-		)
+		(layers "F.Cu" "F.Mask" "F.SilkS" "F.Adhes" "F.Paste")
 		(uuid "9f25dae2-2a3b-4db2-9a23-ff32138cb1c8")
 		(hatch edge 0.5)
 		(connect_pads
@@ -216,11 +210,11 @@
 		(min_thickness 0.25)
 		(filled_areas_thickness no)
 		(keepout
-			(tracks not_allowed)
+			(tracks allowed)
 			(vias not_allowed)
 			(pads not_allowed)
-			(copperpour allowed)
-			(footprints allowed)
+			(copperpour not_allowed)
+			(footprints not_allowed)
 		)
 		(placement
 			(enabled no)
@@ -239,127 +233,7 @@
 	(zone
 		(net 0)
 		(net_name "")
-		(layers "F.Cu" "F.Mask" "B.Cu" "B.Mask" "In1.Cu" "F.SilkS" "In2.Cu" "B.SilkS"
-			"In3.Cu" "F.Adhes" "In4.Cu" "B.Adhes" "In5.Cu" "F.Paste" "In6.Cu" "B.Paste"
-			"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
-			"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
-			"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
-			"In29.Cu" "In30.Cu"
-		)
-		(uuid "b1aa22ff-4872-4c15-91e0-28af197d9308")
-		(hatch edge 0.5)
-		(connect_pads
-			(clearance 0)
-		)
-		(min_thickness 0.25)
-		(filled_areas_thickness no)
-		(keepout
-			(tracks not_allowed)
-			(vias not_allowed)
-			(pads not_allowed)
-			(copperpour allowed)
-			(footprints allowed)
-		)
-		(placement
-			(enabled no)
-			(sheetname "")
-		)
-		(fill
-			(thermal_gap 0.5)
-			(thermal_bridge_width 0.5)
-		)
-		(polygon
-			(pts
-				(xy 1.65 -1.35) (xy -1.25 -1.35) (xy -1.25 1.2) (xy 1.65 1.2)
-			)
-		)
-	)
-	(zone
-		(net 0)
-		(net_name "")
-		(layers "F.Cu" "F.Mask" "B.Cu" "B.Mask" "In1.Cu" "F.SilkS" "In2.Cu" "B.SilkS"
-			"In3.Cu" "F.Adhes" "In4.Cu" "B.Adhes" "In5.Cu" "F.Paste" "In6.Cu" "B.Paste"
-			"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
-			"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
-			"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
-			"In29.Cu" "In30.Cu"
-		)
-		(uuid "f861b846-3a02-4814-808a-4ba2848024ec")
-		(hatch edge 0.5)
-		(connect_pads
-			(clearance 0)
-		)
-		(min_thickness 0.25)
-		(filled_areas_thickness no)
-		(keepout
-			(tracks not_allowed)
-			(vias not_allowed)
-			(pads not_allowed)
-			(copperpour allowed)
-			(footprints allowed)
-		)
-		(placement
-			(enabled no)
-			(sheetname "")
-		)
-		(fill
-			(thermal_gap 0.5)
-			(thermal_bridge_width 0.5)
-		)
-		(polygon
-			(pts
-				(xy 1.65 -1.35) (xy -1.25 -1.35) (xy -1.25 1.2) (xy 1.65 1.2)
-			)
-		)
-	)
-	(zone
-		(net 0)
-		(net_name "")
-		(layers "F.Cu" "F.Mask" "B.Cu" "B.Mask" "In1.Cu" "F.SilkS" "In2.Cu" "B.SilkS"
-			"In3.Cu" "F.Adhes" "In4.Cu" "B.Adhes" "In5.Cu" "F.Paste" "In6.Cu" "B.Paste"
-			"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
-			"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
-			"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
-			"In29.Cu" "In30.Cu"
-		)
-		(uuid "fe5a6918-5ca5-4182-8bce-dafbd6707ffb")
-		(hatch edge 0.5)
-		(connect_pads
-			(clearance 0)
-		)
-		(min_thickness 0.25)
-		(filled_areas_thickness no)
-		(keepout
-			(tracks not_allowed)
-			(vias not_allowed)
-			(pads not_allowed)
-			(copperpour allowed)
-			(footprints allowed)
-		)
-		(placement
-			(enabled no)
-			(sheetname "")
-		)
-		(fill
-			(thermal_gap 0.5)
-			(thermal_bridge_width 0.5)
-		)
-		(polygon
-			(pts
-				(xy 1.65 -1.35) (xy -1.25 -1.35) (xy -1.25 1.2) (xy 1.65 1.2)
-			)
-		)
-	)
-	(zone
-		(net 0)
-		(net_name "")
-		(layers "F.Cu" "F.Mask" "B.Cu" "B.Mask" "In1.Cu" "F.SilkS" "In2.Cu" "B.SilkS"
-			"In3.Cu" "F.Adhes" "In4.Cu" "B.Adhes" "In5.Cu" "F.Paste" "In6.Cu" "B.Paste"
-			"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
-			"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
-			"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
-			"In29.Cu" "In30.Cu"
-		)
+		(layers "F.Cu" "F.Mask" "F.SilkS" "F.Adhes" "F.Paste")
 		(uuid "668b4381-a471-4c61-9215-79527b152721")
 		(hatch edge 0.5)
 		(connect_pads
@@ -368,125 +242,11 @@
 		(min_thickness 0.25)
 		(filled_areas_thickness no)
 		(keepout
-			(tracks not_allowed)
+			(tracks allowed)
 			(vias not_allowed)
 			(pads not_allowed)
-			(copperpour allowed)
-			(footprints allowed)
-		)
-		(placement
-			(enabled no)
-			(sheetname "")
-		)
-		(fill
-			(thermal_gap 0.5)
-			(thermal_bridge_width 0.5)
-		)
-		(polygon
-			(pts
-				(xy 9.14481 1.14827) (xy 6.24481 1.14827) (xy 6.24481 3.69827) (xy 9.14481 3.69827)
-			)
-		)
-	)
-	(zone
-		(net 0)
-		(net_name "")
-		(layers "F.Cu" "F.Mask" "B.Cu" "B.Mask" "In1.Cu" "F.SilkS" "In2.Cu" "B.SilkS"
-			"In3.Cu" "F.Adhes" "In4.Cu" "B.Adhes" "In5.Cu" "F.Paste" "In6.Cu" "B.Paste"
-			"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
-			"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
-			"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
-			"In29.Cu" "In30.Cu"
-		)
-		(uuid "ab9d73e2-748b-4287-8020-eaae727b7ba6")
-		(hatch edge 0.5)
-		(connect_pads
-			(clearance 0)
-		)
-		(min_thickness 0.25)
-		(filled_areas_thickness no)
-		(keepout
-			(tracks not_allowed)
-			(vias not_allowed)
-			(pads not_allowed)
-			(copperpour allowed)
-			(footprints allowed)
-		)
-		(placement
-			(enabled no)
-			(sheetname "")
-		)
-		(fill
-			(thermal_gap 0.5)
-			(thermal_bridge_width 0.5)
-		)
-		(polygon
-			(pts
-				(xy 9.14481 1.14827) (xy 6.24481 1.14827) (xy 6.24481 3.69827) (xy 9.14481 3.69827)
-			)
-		)
-	)
-	(zone
-		(net 0)
-		(net_name "")
-		(layers "F.Cu" "F.Mask" "B.Cu" "B.Mask" "In1.Cu" "F.SilkS" "In2.Cu" "B.SilkS"
-			"In3.Cu" "F.Adhes" "In4.Cu" "B.Adhes" "In5.Cu" "F.Paste" "In6.Cu" "B.Paste"
-			"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
-			"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
-			"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
-			"In29.Cu" "In30.Cu"
-		)
-		(uuid "d65f266c-581f-4813-9583-208c93e5d010")
-		(hatch edge 0.5)
-		(connect_pads
-			(clearance 0)
-		)
-		(min_thickness 0.25)
-		(filled_areas_thickness no)
-		(keepout
-			(tracks not_allowed)
-			(vias not_allowed)
-			(pads not_allowed)
-			(copperpour allowed)
-			(footprints allowed)
-		)
-		(placement
-			(enabled no)
-			(sheetname "")
-		)
-		(fill
-			(thermal_gap 0.5)
-			(thermal_bridge_width 0.5)
-		)
-		(polygon
-			(pts
-				(xy 9.14481 1.14827) (xy 6.24481 1.14827) (xy 6.24481 3.69827) (xy 9.14481 3.69827)
-			)
-		)
-	)
-	(zone
-		(net 0)
-		(net_name "")
-		(layers "F.Cu" "F.Mask" "B.Cu" "B.Mask" "In1.Cu" "F.SilkS" "In2.Cu" "B.SilkS"
-			"In3.Cu" "F.Adhes" "In4.Cu" "B.Adhes" "In5.Cu" "F.Paste" "In6.Cu" "B.Paste"
-			"In7.Cu" "In8.Cu" "In9.Cu" "In10.Cu" "In11.Cu" "In12.Cu" "In13.Cu" "In14.Cu"
-			"In15.Cu" "In16.Cu" "In17.Cu" "In18.Cu" "In19.Cu" "In20.Cu" "In21.Cu"
-			"In22.Cu" "In23.Cu" "In24.Cu" "In25.Cu" "In26.Cu" "In27.Cu" "In28.Cu"
-			"In29.Cu" "In30.Cu"
-		)
-		(uuid "f9817e49-181e-463d-95dc-c355da9495c5")
-		(hatch edge 0.5)
-		(connect_pads
-			(clearance 0)
-		)
-		(min_thickness 0.25)
-		(filled_areas_thickness no)
-		(keepout
-			(tracks not_allowed)
-			(vias not_allowed)
-			(pads not_allowed)
-			(copperpour allowed)
-			(footprints allowed)
+			(copperpour not_allowed)
+			(footprints not_allowed)
 		)
 		(placement
 			(enabled no)
@@ -503,34 +263,12 @@
 		)
 	)
 	(group ""
-		(uuid "fff35bc9-fa3e-4256-8618-1e9f7ac4ebf9")
-		(members "109d1ba7-3240-4ff6-971e-b08b18a6c6af" "2c914849-b2d7-4565-aecf-a4cd0d37a0b7"
-			"4ca53c4d-7b2c-4ac5-80ca-986e59e28167" "89f7b7e2-1826-4a03-9d7c-858bdd2b9465"
-			"f1e65a79-3990-4609-956b-e09a06534d72"
+		(uuid "ec11d268-18fe-44dc-96a1-b4b31158accf")
+		(members "07f0bcc4-223f-4bed-ae3b-7f95d84bc795" "0f5ebb74-77c6-46f0-98db-61a7bc4e5d6f"
+			"35597e82-4b8c-45c9-9570-4179d00af048" "668b4381-a471-4c61-9215-79527b152721"
+			"a0c8ef89-44d0-4b5a-bf00-56dbbe139747" "e4ca7f85-c00e-42b4-bb16-687f8f55171a"
+			"f09add9b-3e95-45b5-9370-79f4e91432cc"
 		)
-	)
-	(group ""
-		(uuid "6ddeed0c-255a-4621-bab6-8760414bbd43")
-		(members "eea511ce-5494-437a-bb7c-448aeee8dfe7" "f245f6e9-36a7-4a17-8049-2e5f3415521e"
-			"fff35bc9-fa3e-4256-8618-1e9f7ac4ebf9"
-		)
-	)
-	(group ""
-		(uuid "c5ee0dda-4b12-4a86-a6bc-1f731f89e358")
-		(members "07f0bcc4-223f-4bed-ae3b-7f95d84bc795" "35597e82-4b8c-45c9-9570-4179d00af048"
-			"668b4381-a471-4c61-9215-79527b152721" "a0c8ef89-44d0-4b5a-bf00-56dbbe139747"
-			"ab9d73e2-748b-4287-8020-eaae727b7ba6" "d65f266c-581f-4813-9583-208c93e5d010"
-			"e4ca7f85-c00e-42b4-bb16-687f8f55171a" "f09add9b-3e95-45b5-9370-79f4e91432cc"
-			"f9817e49-181e-463d-95dc-c355da9495c5"
-		)
-	)
-	(group ""
-		(uuid "eea511ce-5494-437a-bb7c-448aeee8dfe7")
-		(members "b1aa22ff-4872-4c15-91e0-28af197d9308" "fe5a6918-5ca5-4182-8bce-dafbd6707ffb")
-	)
-	(group ""
-		(uuid "f245f6e9-36a7-4a17-8049-2e5f3415521e")
-		(members "9f25dae2-2a3b-4db2-9a23-ff32138cb1c8" "f861b846-3a02-4814-808a-4ba2848024ec")
 	)
 	(embedded_fonts no)
 )

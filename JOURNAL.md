@@ -121,3 +121,7 @@ well well well, my layout is done, feel super good!
 ![layout done](/images/aug26/layout_done.png)
 
 ### time spent today: 1 hour 10 mins
+
+# August 28
+
+Started with PCB layout in school.

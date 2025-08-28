@@ -131,4 +131,7 @@ I have made a decision to remove the JTAG pins, i think that those are unnecessa
 
 oh my god, my PCB is almost complete, just two Antenna connections remaining!
 
+i guess the PCB is done, some final touches remaining:  
+
+
 ### Time Spent Today: 4 hours

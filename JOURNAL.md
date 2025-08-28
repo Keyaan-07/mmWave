@@ -125,3 +125,6 @@ well well well, my layout is done, feel super good!
 # August 28
 
 Started with PCB layout in school.
+
+
+I have made a decision to remove the JTAG pins, i think that those are unnecessary, because i am confident that i build great circuits, and thus there is no need for debugging(BPS Space reference). 

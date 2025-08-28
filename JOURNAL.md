@@ -128,3 +128,7 @@ Started with PCB layout in school.
 
 
 I have made a decision to remove the JTAG pins, i think that those are unnecessary, because i am confident that i build great circuits, and thus there is no need for debugging(BPS Space reference). 
+
+oh my god, my PCB is almost complete, just two Antenna connections remaining!
+
+### Time Spent Today: 4 hours

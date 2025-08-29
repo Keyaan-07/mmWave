@@ -58,20 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "unconnected_items|74795796|56929308|e142ce74-96c5-4a57-bde6-1e97f14828bc|e142ce74-96c5-4a57-bde6-1e97f14828bc",
-          ""
-        ],
-        [
-          "unconnected_items|86846864|56939308|ac7a3129-bc67-494e-a3bd-811888696f0f|ac7a3129-bc67-494e-a3bd-811888696f0f",
-          ""
-        ],
-        [
-          "unconnected_items|94341674|59437578|fbb796d2-e56e-4832-b0de-533e8005a9d0|fbb796d2-e56e-4832-b0de-533e8005a9d0",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -101,7 +88,7 @@
         "items_not_allowed": "ignore",
         "length_out_of_range": "error",
         "lib_footprint_issues": "warning",
-        "lib_footprint_mismatch": "warning",
+        "lib_footprint_mismatch": "ignore",
         "malformed_courtyard": "error",
         "microvia_drill_out_of_range": "error",
         "mirrored_text_on_front_layer": "warning",

@@ -135,3 +135,8 @@ i guess the PCB is done, some final touches remaining:
 ![pcb doneee](/images/aug28/pcb_done_prolly.png)
 (i am at 64 vias rn let's see how many i add)
 ### Time Spent Today: 4 hours
+
+# August 29 2025
+today, idk how but i forgot to journal, and i have added so many damn vias, i am a crazy crazy person, they were like 64 yesterday, now they are like 200 something, all ground vias, atp i am just making jlc suffer, and i spent an hour trying my best to squeeze as many vias as i can :skull:
+
+UPDATE WITH IMAGES

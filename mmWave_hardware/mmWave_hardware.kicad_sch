@@ -6929,6 +6929,28 @@
 			)
 		)
 	)
+	(global_label "GND"
+		(shape input)
+		(at 72.39 218.44 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6a5013f3-58b9-437a-8ebd-6edcfa2182f7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 65.5343 218.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "VDD_SRAM"
 		(shape input)
 		(at 217.17 58.42 0)
@@ -7492,6 +7514,28 @@
 		(uuid "c7a824ee-e3f8-4537-b370-30cef0734dd4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 65.5343 208.28 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "GND"
+		(shape input)
+		(at 72.39 213.36 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "cd9c3f22-7c24-490a-a03b-3ed8b11e4eb5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 65.5343 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8565,7 +8609,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 300.99 106.68 0)
 			(effects
 				(font
@@ -9048,7 +9092,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 300.99 111.76 0)
 			(effects
 				(font
@@ -10996,7 +11040,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 275.59 97.79 0)
 			(effects
 				(font
@@ -11061,7 +11105,7 @@
 				)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 127 87.63 0)
 			(effects
 				(font
@@ -11128,7 +11172,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "TestPoint:TestPoint_Pad_D1.5mm"
+		(property "Footprint" "TestPoint:TestPoint_Pad_D1.0mm"
 			(at 275.59 102.87 0)
 			(effects
 				(font

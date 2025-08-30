@@ -141,7 +141,7 @@ today, idk how but i forgot to journal, and i have added so many damn vias, i am
 
 ### Time spent today: 1 hour
 
-# August 30
+# August 30 2025
 
 i am done. THE PCB IS FINALLY READY  
 
@@ -149,3 +149,4 @@ i am done. THE PCB IS FINALLY READY
 ![final PCB](/images/aug30/final_pcb_poured.png)  
 
 ### time spent today: 20 mins  
+

@@ -147,6 +147,9 @@ i am done. THE PCB IS FINALLY READY
 
 ![final PCB](/images/aug30/final_pcb.png)  
 ![final PCB](/images/aug30/final_pcb_poured.png)  
-
+![3d render image 1](/images/aug30/3d1.png)
+![3d render image 2](/images/aug30/3d2.png)
 ### time spent today: 20 mins  
 
+# August 31 2025
+grounded ends today, and i have to submit this proj, so i am gonna do that today itself!

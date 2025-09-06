@@ -6529,7 +6529,7 @@
 	)
 	(global_label "SPI0_CS0_N"
 		(shape input)
-		(at 85.09 210.82 0)
+		(at 85.09 218.44 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6539,7 +6539,7 @@
 		)
 		(uuid "1e25d042-a44c-4283-8b25-33deee4df127")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 99.3237 210.82 0)
+			(at 99.3237 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6551,22 +6551,22 @@
 	)
 	(global_label "RS232_RX"
 		(shape input)
-		(at 85.09 220.98 0)
+		(at 72.39 218.44 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "26d3ee43-a1b4-424c-8c0e-29d63fbe3e79")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.6303 220.98 0)
+			(at 59.8497 218.44 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -6793,7 +6793,7 @@
 	)
 	(global_label "GPIO_2"
 		(shape input)
-		(at 72.39 210.82 180)
+		(at 72.39 213.36 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6803,7 +6803,7 @@
 		)
 		(uuid "564552ae-24bf-4574-aaf5-015f0674f56f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 62.7524 210.82 0)
+			(at 62.7524 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6837,22 +6837,22 @@
 	)
 	(global_label "UART_RTS"
 		(shape input)
-		(at 72.39 220.98 180)
+		(at 85.09 210.82 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "595dfba3-5bf3-427f-b371-eadfb5b5c411")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 60.3334 220.98 0)
+			(at 97.1466 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -6881,29 +6881,29 @@
 	)
 	(global_label "NRST_MAIN"
 		(shape input)
-		(at 85.09 223.52 0)
+		(at 72.39 226.06 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "6212b811-0624-4a67-8f7f-ca89dca853f9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 98.2957 223.52 0)
+			(at 59.1843 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "SPI0_MISO"
 		(shape input)
-		(at 85.09 213.36 0)
+		(at 85.09 226.06 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6913,34 +6913,12 @@
 		)
 		(uuid "66cb4fe7-6e87-4266-b024-97805b087d3f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.9328 213.36 0)
+			(at 97.9328 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "GND"
-		(shape input)
-		(at 72.39 218.44 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "6a5013f3-58b9-437a-8ebd-6edcfa2182f7")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 65.5343 218.44 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 				(hide yes)
 			)
 		)
@@ -6991,44 +6969,44 @@
 	)
 	(global_label "RS232_TX"
 		(shape input)
-		(at 85.09 218.44 0)
+		(at 72.39 220.98 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "6d4aebe6-d75a-4ae8-8076-d365f170b730")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.3279 218.44 0)
+			(at 60.1521 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "VIN"
 		(shape input)
-		(at 85.09 226.06 0)
+		(at 72.39 210.82 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "765fbe29-c12c-432e-8b64-720e3d1220cd")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 91.0991 226.06 0)
+			(at 66.3809 210.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -7473,53 +7451,31 @@
 			)
 		)
 	)
-	(global_label "GND"
-		(shape input)
-		(at 72.39 213.36 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "cd9c3f22-7c24-490a-a03b-3ed8b11e4eb5")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 65.5343 213.36 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "UART_RX"
 		(shape input)
-		(at 72.39 223.52 180)
+		(at 85.09 213.36 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "ce0d397a-6de2-416e-9b63-46b16ef972ae")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 61.301 223.52 0)
+			(at 96.179 213.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "SPI0_MOSI"
 		(shape input)
-		(at 85.09 215.9 0)
+		(at 85.09 223.52 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7529,7 +7485,7 @@
 		)
 		(uuid "d4939f77-4858-48e1-9433-adebfbd25f49")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 97.9328 215.9 0)
+			(at 97.9328 223.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7673,7 +7629,7 @@
 	)
 	(global_label "SPI0_CLK"
 		(shape input)
-		(at 85.09 208.28 0)
+		(at 85.09 220.98 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7683,7 +7639,7 @@
 		)
 		(uuid "f559430c-7557-4b36-a914-7b88c38f11b0")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 96.9047 208.28 0)
+			(at 96.9047 220.98 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7695,22 +7651,22 @@
 	)
 	(global_label "UART_TX"
 		(shape input)
-		(at 72.39 226.06 180)
+		(at 85.09 215.9 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "fc08c589-7ead-4b3d-8843-e281a7050bc4")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 61.6034 226.06 0)
+			(at 95.8766 215.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)

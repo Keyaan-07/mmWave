@@ -155,4 +155,17 @@ i am done. THE PCB IS FINALLY READY
 grounded ends today, and i have to submit this proj, so i am gonna do that today itself!
 
 # sept 6 2025
-Grounded ends 20 sept!! i have started routing again, will update later on!!
+Grounded ends 20 sept!! i have started routing again, will update later on!! Worked on it, and i think i am done with the board again.
+
+for proper routing, i changed the pin config many many times, and thus i have arrived to what i have today, ladies and gentlemen.  
+
+Schematic:  
+![schematic](/images/sept6/schematic.png)  
+PCB:  
+![PCB1](/images/sept6/pcb1.png)  
+![PCB2](/images/sept6/pcb2.png)  
+3d:  
+![3d1](/images/sept6/3d1.png)  
+![3d2](/images/sept6/3d2.png)  
+I wrote a bit of the readme too!
+### Time spent today: 2.5 hours

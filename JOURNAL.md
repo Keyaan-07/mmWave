@@ -153,3 +153,6 @@ i am done. THE PCB IS FINALLY READY
 
 # August 31 2025
 grounded ends today, and i have to submit this proj, so i am gonna do that today itself!
+
+# sept 6 2025
+Grounded ends 20 sept!! i have started routing again, will update later on!!

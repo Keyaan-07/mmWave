@@ -169,3 +169,6 @@ PCB:
 ![3d2](/images/sept6/3d2.png)  
 I wrote a bit of the readme too!
 ### Time spent today: 2.5 hours
+
+# sept 10 2025
+i have sat on 13th, so i'm working less these days, anyways, i'll update production files today

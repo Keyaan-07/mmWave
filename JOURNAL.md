@@ -172,3 +172,5 @@ I wrote a bit of the readme too!
 
 # sept 10 2025
 i have sat on 13th, so i'm working less these days, anyways, i'll update production files today
+
+oh shoot, i discovered a problem with the footprint assignment too, gotta fix that rn.

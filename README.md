@@ -8,8 +8,8 @@ The board is a 6 layer board(4 layer was possible but 6 layers was cheaper). The
 Schematic:  
 ![schematic](/images/sept6/schematic.png)  
 PCB:  
-![PCB1](/images/sept6/pcb1.png)
-![PCB2](/images/sept6/pcb2.png)
+![PCB1](/images/sept11/pcb1.png)
+![PCB2](/images/sept11/pcb2.png)
 3d: 
-![3d1](/images/sept6/3d1.png)
-![3d2](/images/sept6/3d2.png)
+![3d1](/images/sept11/3d1.png)
+![3d2](/images/sept11/3d2.png)

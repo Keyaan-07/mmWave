@@ -179,4 +179,15 @@ did a bit of changes to the silkscreen too, will need to change the images again
 
 ### time spent today: 20 mins
 
-UPDATE IMAGES BEFORE SUBMITTING
+# sept 11 2025
+I updated the images today, will probably submit by night of 13 sept or 14 sept morning. NICE!
+
+final images:  
+Schematic:  
+![schematic](/images/sept6/schematic.png)  
+PCB:  
+![PCB1](/images/sept11/pcb1.png)
+![PCB2](/images/sept11/pcb2.png)
+3d: 
+![3d1](/images/sept11/3d1.png)
+![3d2](/images/sept11/3d2.png)

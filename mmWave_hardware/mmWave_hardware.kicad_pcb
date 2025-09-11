@@ -9049,6 +9049,7 @@
 		(property "Reference" "R8"
 			(at 0 1.17 270)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "512b440a-9298-4c57-b8ab-c9b1eebfaf6f")
 			(effects
 				(font
@@ -11803,6 +11804,7 @@
 		(property "Reference" "R1"
 			(at 0 1.17 90)
 			(layer "B.SilkS")
+			(hide yes)
 			(uuid "b9705cbf-7760-4bd1-a4cd-3e8f9d01a208")
 			(effects
 				(font

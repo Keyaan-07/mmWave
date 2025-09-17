@@ -198,5 +198,7 @@ SAT is done! gotta start with the radar today, so i made a minor changes to it a
 
 everything is now done, i am gonna submit today itself.
 
-### time spent today: 1 hour 15 mins
+hell yeah! everything is done, gonna submit now..
+
+### time spent today: 1 hour 45 mins
 

@@ -21,7 +21,7 @@ because the top sides contains BGA footprint which i've never soldered before, i
 | PCB                         | 2     | 6-Layer PCB                    |
 | PCBA                        | 51.71 | PCBA service from jlcpcb.com   |
 | SHIPPING from JLC           | 9.28  | shipping cost                  |
-| PCBA discount               | -15    | 15 USD coupon from JLCONE yayy |
+| PCBA discount               | -15    | 15 USD coupon from JLCONE yayy(valid till 19 sept) |
 | LCSC Total (BOM_PCB_Bottom) | 14.55 | bottom side all parts          |
 | Total                       | 62.54 | USD                            |
 

@@ -1,3 +1,10 @@
+---
+Title: "mmWave radar"
+Author: "Keyaan"
+Description: "mmWave radar module operating at 60GHz"
+Created On: "10/8/2025"
+---
+
 # August 10 2025
 
 Starting with the journaling of this project!

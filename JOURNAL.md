@@ -191,3 +191,12 @@ PCB:
 3d: 
 ![3d1](/images/sept11/3d1.png)
 ![3d2](/images/sept11/3d2.png)
+
+
+# sept 17 2025
+SAT is done! gotta start with the radar today, so i made a minor changes to it and now i have to again change all the images. lol.
+
+everything is now done, i am gonna submit today itself.
+
+### time spent today: 1 hour 15 mins
+

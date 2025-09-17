@@ -5,6 +5,8 @@ Description: "mmWave radar module operating at 60GHz"
 Created On: "10/8/2025"
 ---
 
+## Total Time Spent: 14.5 hours
+
 # August 10 2025
 
 Starting with the journaling of this project!
